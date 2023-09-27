@@ -1,6 +1,6 @@
 # security_rsa
 This is some starter code for implementing RSA encryption (public and private keys) in Python using the RSA module  
-I'll post my solution after today if anyone want's to check  
+I'll post my solution after today if anyone want's to check, also if you do not wish to follow this tutorial, the replit is hosted on the cloud and requires none of this setup (save for pip install rsa) that link is <a href = "https://replit.com/@MatthewZepf/Security"> here </a>  
 
 # How to get started
 install vscode (not necessary if you have another python ide you love, but it makes this simpler)  
