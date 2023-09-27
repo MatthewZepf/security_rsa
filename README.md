@@ -1,18 +1,21 @@
 # security_rsa
-This is some starter code for implementing RSA encryption (public and private keys) in Python using the RSA module
+This is some starter code for implementing RSA encryption (public and private keys) in Python using the RSA module  
+I'll post my solution after today if anyone want's to check  
 
 # How to get started
-install vscode (not necessary if you have another python ide you love, but it makes this simpler) <be>
-For Mac: Follow https://eecs485staff.github.io/p1-insta485-static/setup_macos.html  
+install vscode (not necessary if you have another python ide you love, but it makes this simpler)  
+<h5> For Mac: Follow <a href="https://eecs485staff.github.io/p1-insta485-static/setup_macos.html"> this </a>  </h5>
 
-For Windows:  
+<h5> For Windows: </h5>  
 Please have Ubuntu with wsl 2 installed, and run the following commands  
 you can check if you have wsl 2 by running the following command $ wsl -l -v in Ubuntu  
 if you see a 2 below version you are good  
-Run the following commands to make sure you have Python 3, pip, and virtual environments setup  
-$ sudo apt update  
-$ sudo apt install python3 python3-pip python3-venv python3-wheel python3-setuptools git tree default-jre  
+Run the following commands to make sure you have Python 3, pip, and virtual environments setup  <br>
+$ sudo apt update  <br>
+$ sudo apt install python3 python3-pip python3-venv python3-wheel python3-setuptools git tree default-jre   <br> 
+<br>
 
+<h5> For both OS </h5>
 Make a directory for security via terminal/ubuntu  
 this can be done with $mkdir security when you find a spot you are fine putting it  
 $cd security/ to enter into the directory,  
