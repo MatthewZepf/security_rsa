@@ -16,21 +16,21 @@ $ sudo apt install python3 python3-pip python3-venv python3-wheel python3-setupt
 <br>
 
 <h5> For both OS </h5>
-Make a directory for security via terminal/ubuntu  
-this can be done with $mkdir security when you find a spot you are fine putting it  
-$cd security/ to enter into the directory,  
-then type $git clone https://github.com/MatthewZepf/security_rsa.git to get the files  
-navigate to the new directory (use ls and cd here)  
-when you are in the new directory containing main.py run the following commands in terminal  
-$ python3 -m venv env
-$ source env/bin/activate
-$ pip install rsa
-$ code . 
-then you should have all the necessary packages installed 
-to run the python file in terminal, simply enter  
-$ python3 main.py  
+Make a directory for security via terminal/ubuntu  <br>
+this can be done with $mkdir security when you find a spot you are fine putting it  <br>
+$cd security/ to enter into the directory,  <br>
+then type $git clone https://github.com/MatthewZepf/security_rsa.git to get the files <br> 
+navigate to the new directory (use ls and cd here)  <br>
+when you are in the new directory containing main.py run the following commands in terminal  <br>
+$ python3 -m venv env  <br>
+$ source env/bin/activate  <br>
+$ pip install rsa  <br>
+$ code . <br>
+then you should have all the necessary packages installed <br>
+to run the python file in terminal, simply enter  <br>
+$ python3 main.py  <br>
 If you have any questions, for installing vscode you can follow the 280 tutorials here although we don't use c++ for security
-https://eecs280staff.github.io/tutorials/setup_vscode.html  
-For more details on the python setup, you can find the eecs 485 tutorial https://eecs485staff.github.io/p1-insta485-static/setup_macos.html  
+https://eecs280staff.github.io/tutorials/setup_vscode.html  <br>
+For more details on the python setup, you can find the eecs 485 tutorial https://eecs485staff.github.io/p1-insta485-static/setup_macos.html  <br>
 <h1> If you have any trouble with setup or the coding, let me know </h1>
 
